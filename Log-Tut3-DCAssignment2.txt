@@ -1,0 +1,16 @@
+2021/05/22 20:04:46 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 100966 items.
+2021/05/22 20:04:51 [INFO] Get() - GetValuesForEntry is successfuly called. Index 0 has an account number of 975223560 which is Jessica Wilson's.
+2021/05/22 20:05:03 [ERROR] Get() - GetValuesForEntry is NOT successfuly called. Index 21212112 is out of range. Http response exception is thrown.
+2021/05/22 20:05:10 [INFO] Get() - GetValuesForEntry is successfuly called. Index 21212 has an account number of 628647636 which is Mary Miller's.
+2021/05/22 20:05:16 [ERROR] Get() - GetMatchingLastName is NOT successfuly called. Last name 21 is invalid. Http response exception is thrown.
+2021/05/22 20:05:22 [ERROR] Get() - GetMatchingLastName is NOT successfuly called. Last name  has no match found. Http response exception is thrown.
+2021/05/22 20:05:28 [INFO] Post() - GetMatchingLastName is successfuly called. Last name Doe has an account number of 932202682 which is Anna Doe's.
+2021/05/22 20:05:33 [ERROR] Get() - GetMatchingLastName is NOT successfuly called. Last name Does has no match found. Http response exception is thrown.
+2021/05/22 20:05:41 [INFO] Post() - GetMatchingLastName is successfuly called. Last name Citizen has an account number of 641718843 which is Stefan Citizen's.
+2021/06/02 13:26:39 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 101224 items.
+2021/06/02 13:26:50 [INFO] Get() - GetValuesForEntry is successfuly called. Index 5 has an account number of 671735015 which is Jane Jackson's.
+2021/06/02 13:26:57 [INFO] Post() - GetMatchingLastName is successfuly called. Last name Doe has an account number of 904190375 which is Emily Doe's.
+2021/06/02 14:52:33 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 102928 items.
+2021/06/02 14:52:39 [INFO] Get() - GetValuesForEntry is successfuly called. Index 12 has an account number of 429824883 which is Charlie Smith's.
+2021/06/02 14:52:47 [INFO] Post() - GetMatchingLastName is successfuly called. Last name Doe has an account number of 401088827 which is Natasha Doe's.
+2021/06/02 14:52:55 [ERROR] Get() - GetValuesForEntry is NOT successfuly called. Index -1 is out of range. Http response exception is thrown.
